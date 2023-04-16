@@ -1,3 +1,5 @@
+![Video Compress Logo](grfx/video-compress-150x.png)
+
 # Video Compress
 
 This is a simple command-line video converter tool that leverages ffmpeg to convert .mp4 files to different formats,
