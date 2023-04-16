@@ -1,4 +1,4 @@
-# Video Compressor
+# Video Compress
 
 This is a simple command-line video converter tool that leverages ffmpeg to convert .mp4 files to different formats,
 resolutions, and bitrates. It supports H.265 and AV1 codecs with FHD and UHD resolutions.
